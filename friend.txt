@@ -1,0 +1,115 @@
+    <h2 class="text-center">FRIEND CHANNEL</h2>
+    <hr>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <ul class="list-unstyled">
+            <li class="media">
+              <img class="mr-3" src="../images/烏賊.jpg" alt="" width="100px" height="100px" id="#?烏賊">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCqx6u9HI8V0OvhxyPThiAgw">烏賊wuzei</a></h5>
+                關於我:  一個智障  訂閱我
+              </div>
+            </li>
+
+            <li class="media my-4">
+              <img class="mr-3" src="../images/狸貓.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/c/%E7%8B%B8%E8%B2%93raccoon">狸貓raccoon</a></h5>
+                本來是一隻浣熊 掉進了泥巴裡 就變成尾巴有條紋的狸貓囉!!
+              </div>
+            </li>
+
+            <li class="media my-4">
+              <img class="mr-3" src="../images/梅酒.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCwm1H29N72F65UvCjN0f6sA">梅酒</a></h5>
+                暫無
+              </div>
+            </li>
+
+            <li class="media">
+              <img class="mr-4" src="../images/心藍.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCp5qkH3FRtDt1iclfyXwwgA">心藍 XinlanTW</a></h5>
+                我才是....台灣實力....吊車尾#
+              </div>
+            </li>
+
+          </ul>
+        </div>
+
+
+        <div class="col-lg-4">
+          <ul class="list-unstyled">
+            <li class="media">
+              <img class="mr-3" src="../images/暗影.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCNeuMvbeIKrd1ZYmwPn3aeA">暗影</a></h5>
+                想當一個 youtuber  才發現沒那麼簡單  正在努力變得更好
+              </div>
+            </li>
+
+            <li class="media my-4">
+              <img class="mr-3" src="../images/小謙.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCG5zXmspd9jnJX-qeUBKjlQ">Xiaoqian小謙</a></h5>
+                HAVE FUN AND PLAY HARD（╹◡╹）
+              </div>
+            </li>
+
+            <li class="media my-4">
+              <img class="mr-3" src="../images/ZACK.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCKklyzNPQcigEx1YwaSNMiA">Guangxi Zheng</a></h5>
+                一個學生yt
+              </div>
+            </li>
+
+            <li class="media my-4">
+              <img class="mr-3" src="../images/帽子.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCYQeI6TWjsRUfmKp_EgdMEA">帽子</a></h5>
+                海浪
+              </div>
+            </li>
+
+          </ul>
+        </div>
+
+
+        <div class="col-lg-4">
+          <ul class="list-unstyled">
+            <li class="media">
+              <img class="mr-3" src="../images/起司.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCbGKSLZH3F3NVbLixHAfzrw">追逐者起司</a></h5>
+                我是起司!  在這裡我會上傳一些 Minecraft 或是 FNF 等遊戲
+              </div>
+            </li>
+            <li class="media my-4">
+              <img class="mr-3" src="../images/阿學.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UCeDGnaHpBxCD4dXlfVe14XQ">阿學</a></h5>
+                哈囉大家好我是阿學  歡迎來到我的頻道  謝謝各位粉絲支持
+              </div>
+            </li>
+
+            <li class="media my-4">
+              <img class="mr-3" src="../images/鳥鳥.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/channel/UClwY6BYTfv6qyb8wl5IXgtQ">Xiaobird鳥鳥</a></h5>
+                哈囉大家好，我是鳥鳥!  喜歡影片的話 幫忙按個訂閱吧！❤️
+              </div>
+            </li>
+
+            <li class="media">
+              <img class="mr-3" src="../images/Minecraftplay.jpg" alt="" width="100px" height="100px">
+              <div class="media-body">
+                <h5 class="mt-0 mb-1"><a target="blank" href="https://www.youtube.com/c/MinecraftplayTV%E9%A0%BB%E9%81%93">Minecraft play TV 頻道</a></h5>
+                嗨大家好，我是阿烜  來自台灣的17歲的高中生
+              </div>
+            </li>
+
+          </ul>
+        </div>
