@@ -45,7 +45,7 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(234, 6, 6, 0);
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0.944);
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
@@ -60,7 +60,7 @@ body {
   line-height: 1.5;
   color: #ffffff;
   text-align: left;
-  background-color: rgba(9, 92, 164, 0.68);
+  background-color: rgb(12, 30, 47);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -154,14 +154,14 @@ sup {
 }
 
 a {
-  color: #ff8000;
+  color: #3b3b3b;
   text-decoration: none;
   background-color: transparent;
   font-weight: bolder;
 }
 
 a:hover {
-  color: #cd7e1e;
+  color: #4f4f4f;
   text-decoration: underline;
   font-weight: bolder;
 }
@@ -211,7 +211,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #ff0000;
   text-align: left;
   caption-side: bottom;
 }
@@ -422,7 +422,7 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 5px solid rgb(255, 38, 38);
+  border-top: 5px solid rgb(255, 255, 255);
 }
 
 small,
@@ -504,9 +504,11 @@ mark,
 }
 
 code {
-  font-size: 87.5%;
-  color: #e83e8c;
+  font-size: 95%;
+  color: #d74389;
   word-wrap: break-word;
+  background-color: #212b36;
+  padding: 0.2rem;
 }
 
 a > code {
@@ -550,6 +552,13 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+}
+
+.back-img {
+  display: block;
+  position: fixed;
+  top: 60%;
+  left: 5%;
 }
 
 @media (min-width: 576px) {
